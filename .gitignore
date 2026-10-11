@@ -1,0 +1,15 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# FastF1 downloaded data
+F1Cached/
+cache/
+fastf1_cache/
+
+# Environment variables
+.env
