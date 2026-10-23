@@ -7,4 +7,3 @@ This F1 project will hopefully become a website which has lots of F1 data featur
 - Insights to who knows what tracks the best and the podium winners of that track
 - Championship details as well as the calendar
 - Adding your lap time from the F1 games to compare to other users
-- Live data
